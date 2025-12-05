@@ -95,3 +95,4 @@ Für echte Funktionalität:
 - Barrierefreie Komponenten
 - Impressum & Datenschutz als Modals
 # Goessel-Website
+# Goessel-Website
