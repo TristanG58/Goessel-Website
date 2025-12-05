@@ -96,3 +96,4 @@ Für echte Funktionalität:
 - Impressum & Datenschutz als Modals
 # Goessel-Website
 # Goessel-Website
+# Goessel-Website
